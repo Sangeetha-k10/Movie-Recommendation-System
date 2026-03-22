@@ -58,10 +58,18 @@ streamlit run app.py
 <img width="1920" height="1080" alt="Screenshot 2026-03-16 175247" src="https://github.com/user-attachments/assets/fc59c20e-2ee4-4443-b305-b860985d2f53" />
 
 
+
 📈 Outcome
 
 * Built a functional recommendation engine using ML concepts
 * Improved understanding of data preprocessing and similarity algorithms
 * Gained experience in deploying ML apps using Streamlit
 
+🎯 Learning Outcomes
+
+This project Strengthened my understanding of NLP concepts, feature engineering, and vectorization techniques and showcasing practical skills in machine learning and application development.
+
+👨‍💻 Author
+
+Sangeetha K
 
